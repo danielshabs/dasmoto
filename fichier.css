@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+    background: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+
+}
+h2{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
+figcaption{
+    font-weight: bold;
+}
+.titleBrushes{
+    background-color:mediumspringgreen ;
+}
+.titleLightcoral{
+    background-color: lightcoral;
+}
+.titleSkyblue{
+    background-color: skyblue;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
